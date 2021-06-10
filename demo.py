@@ -18,3 +18,9 @@ type(c)
 print(type(a));
 
 name = input("Enter Name : ")
+g=9
+d=10
+e=33
+print(g,d,e,sep ='#')
+#indentation
+#floor division // --> eg: 5//2 => 2
